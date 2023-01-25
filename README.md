@@ -2,7 +2,7 @@
 ## About myself
 Welcome to my profile:wave:,
 
-My name is Tom and I am programming since I was 16. Inspired from just anything in the world, I try to develop solutions for several problems. Based on that thought, this profile was created for fun and maybe for developing important future solutions. The main foucs is set to development with Python 3, but I also love experimenting with other languages like Javascript (React) or anything else. Feel free to contact or follow me on my jorney.:smile:
+My name is Tom and I am programming since I was 16. Inspired from just anything in the world, I try to develop solutions for several problems. Based on that thought, this profile was created for fun and maybe for developing important future solutions. The main foucs is set to development with Python 3, but I also love experimenting with other languages like Javascript (React) or anything else. Feel free to contact or follow me on my journey.:smile:
 
 Still here?
 
