@@ -45,7 +45,7 @@ Then I wish you happy coding!:heart:
 ## Some staticstics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IllusiveCoder&show_icons=true&theme=blue-green">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&layout=donut-vertical"/><br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder"/><br/>
 
 ## References
 
