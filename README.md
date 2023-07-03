@@ -42,11 +42,23 @@ Then I wish you happy coding!:heart:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><br/>
 
-## Some staticstics
-<Statistics>
-          <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IllusiveCoder&show_icons=true&theme=blue-green"/>
-          <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&layout=donut-vertical"/><br/>
-</Statistics>
+## Some Statistics
+<details>
+<p align="center">
+  <a href="https://github.com/IllusiveCoder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllusiveCoder&theme=transparent" />
+  </a>
+  <a href="https://github.com/IllusiveCoder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllusiveCoder&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/IllusiveCoder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllusiveCoder&theme=transparent" />
+  </a>
+  <a href="https://github.com/IllusiveCoder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details></br>
 
 ## References
 
