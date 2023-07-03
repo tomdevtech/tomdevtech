@@ -58,7 +58,7 @@ Then I wish you happy coding!:heart:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details></br>
+</details>
 
 ## References
 
