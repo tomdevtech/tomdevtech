@@ -43,9 +43,11 @@ Then I wish you happy coding!:heart:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><br/>
 
 ## Some staticstics
+<Statistics>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IllusiveCoder&show_icons=true&theme=blue-green">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&layout=donut-vertical"/><br/>
+</Statistics>
 
 ## References
 
