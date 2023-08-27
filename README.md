@@ -1,12 +1,18 @@
 # Illusive Coder
 ## About myself
-Welcome to my profile:wave:,
+Certainly! Here's an enhanced version of your text for your GitHub profile:
 
-My name is Tom and I am programming since I was 16. Inspired from just anything in the world, I try to develop solutions for several problems. Based on that thought, this profile was created for fun and maybe for developing important future solutions. Mostly I am coding with Python 3, but I also love experimenting with other languages like Javascript (React) or anything else. Feel free to contact or follow me on my journey.:smile:
+👋 Welcome to my profile!
 
-Still here?
+👨‍💻 I'm Tom, and I've been passionate about programming since the age of 16. 🌟 I draw inspiration from all corners of the world to craft innovative solutions for a variety of challenges.
 
-Then I wish you happy coding!:heart:
+🚀 With a primary focus on Python 3, I also enjoy delving into the realms of JavaScript (React) and exploring other programming languages. 🧪 I believe in the power of experimentation to drive innovation.
+
+📫 Feel free to reach out or follow along on my coding journey! 😄
+
+Still here? 🤔
+
+🚀 Then I wish you happy coding! ❤️
 
 ## Social Media
 <a href="https://instagram.com/illusive_coder">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
