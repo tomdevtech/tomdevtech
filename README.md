@@ -1,7 +1,5 @@
 # Illusive Coder
 ## About myself
-Certainly! Here's an enhanced version of your text for your GitHub profile:
-
 👋 Welcome to my profile!
 
 👨‍💻 I'm Tom, and I've been passionate about programming since the age of 16. 🌟 I draw inspiration from all corners of the world to craft innovative solutions for a variety of challenges.
