@@ -13,7 +13,7 @@ Still here? 🤔
 🚀 Then I wish you happy coding! ❤️
 
 ## Social Media
-<a href="https://instagram.com/illusive_coder">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://instagram.com/tom.devtech">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ## Languages & Extensions
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -49,17 +49,17 @@ Still here? 🤔
 ## Some Statistics
 <details>
 <p align="center">
-  <a href="https://github.com/IllusiveCoder">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllusiveCoder&theme=transparent" />
+  <a href="https://github.com/tomdevtech">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
   </a>
-  <a href="https://github.com/IllusiveCoder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllusiveCoder&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/tomdevtech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/IllusiveCoder">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllusiveCoder&theme=transparent" />
+  <a href="https://github.com/tomdevtech">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
   </a>
-  <a href="https://github.com/IllusiveCoder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusiveCoder&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+  <a href="https://github.com/tomdevtech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
