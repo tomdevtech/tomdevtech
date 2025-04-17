@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tomdevtech.tomdevtech&style=flat-square&color=blue)
 
-## 👋 Hello World!
+---
+
+## 👨‍💻 About Me
 
 Hi, I'm **Tom** – passionate developer 💻, tech enthusiast 🚀 and always curious about new digital horizons 🌍  
 Since I was 16, I've been diving into the world of code, building, experimenting and constantly learning 🧠✨
@@ -54,23 +56,18 @@ My goal: create innovative solutions that make a difference – simple, fast and
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Achievements
 
 <details>
-  <summary>📊 Show GitHub Analytics</summary>
+  <summary>📊 Show Stats & Trophies</summary>
+  <br/>
   <p align="center">
-    <a href="https://github.com/tomdevtech">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
-    </a>
-    <a href="https://github.com/tomdevtech">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
-    </a>
-    <a href="https://github.com/tomdevtech">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
-    </a>
-    <a href="https://github.com/tomdevtech">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
-    </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+    <br/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=tomdevtech&theme=onestar&no-frame=true&row=1" />
   </p>
 </details>
 
@@ -78,12 +75,14 @@ My goal: create innovative solutions that make a difference – simple, fast and
 
 ## 📚 Resources & Credits
 
-- [TechStack Generator](https://techstack-generator.vercel.app/)  
+- [Typing SVG](https://readme-typing-svg.demolab.com/)  
 - [Devicon](https://devicon.dev/)  
-- [Skillicons](https://skillicons.dev/)  
+- [TechStack Generator](https://techstack-generator.vercel.app/)  
+- [Skillicons.dev](https://skillicons.dev/)  
 - [Visitor Badge](https://visitor-badge.laobi.icu)  
-- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github)
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)  
+- [Trophy](https://github.com/ryo-ma/github-profile-trophy) 
 
 ---
 
-_Thanks for visiting – and happy coding! 🚀_
+_Thanks for visiting – let’s connect & create! 🚀_
