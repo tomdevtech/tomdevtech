@@ -1,25 +1,26 @@
 # Tom.DevTech
-## About myself
-👋 Welcome to my profile!
 
-👨‍💻 I'm Tom, and I've been passionate about programming since the age of 16. 🌟 I draw inspiration from all corners of the world to craft innovative solutions for a variety of challenges.
+## 👋 Hello World!
 
-🚀 With a primary focus on Python 3, I also enjoy delving into the realms of JavaScript (React) and exploring other programming languages. 🧪 I believe in the power of experimentation to drive innovation.
+Hi, I'm **Tom** – passionate developer, tech enthusiast, and always curious about new digital horizons.  
+Since I was 16, I've been diving into the world of code, building, experimenting, and constantly learning.
 
-📫 Feel free to reach out or follow along on my coding journey! 😄
+💡 I specialize in **Python**, **React** and **TypeScript**, but I’m always exploring new tools and frameworks.  
+My goal: create innovative solutions that make a difference – simple, fast, and effective.
 
-Still here? 🤔
+📬 Let’s connect and build something awesome together!
 
-🚀 Then I wish you happy coding! ❤️
+---
 
-## Social Media
-<a href="https://instagram.com/tom.devtech">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+## 🌐 Social Media
+
+<a href="https://instagram.com/tom.devtech">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+</a>
 
 ---
 
 ## 🔤 Languages & Extensions
-
-<br />
 
 <table align="center">
   <tr>
@@ -64,9 +65,7 @@ Still here? 🤔
 
 ---
 
-## 🛠 Tools
-
-<br />
+## 🛠 Tools I Use
 
 <table align="center">
   <tr>
@@ -95,29 +94,35 @@ Still here? 🤔
 
 ---
 
-## 📊 Some Statistics
+## 📈 GitHub Stats
+
 <details>
-<p align="center">
-  <a href="https://github.com/tomdevtech">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
-  </a>
-  <a href="https://github.com/tomdevtech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/tomdevtech">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
-  </a>
-  <a href="https://github.com/tomdevtech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+  <summary>📊 Show GitHub Analytics</summary>
+  <p align="center">
+    <a href="https://github.com/tomdevtech">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
+    </a>
+    <a href="https://github.com/tomdevtech">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/tomdevtech">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
+    </a>
+    <a href="https://github.com/tomdevtech">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+    </a>
+  </p>
 </details>
 
 ---
 
-## 🔗 References
+## 📚 Resources & Credits
 
-- [Icons (TechStack Generator)](https://techstack-generator.vercel.app/)  
-- [Icons (Devicon)](https://devicon.dev/)  
-- [Icons (Skillicons)](https://skillicons.dev/)  
-- [GitHub Style Guide](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+- [TechStack Generator Icons](https://techstack-generator.vercel.app/)  
+- [Devicon Icons](https://devicon.dev/)  
+- [Skillicons](https://skillicons.dev/)  
+- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github)
+
+---
+
+✨ _Thanks for stopping by – let’s build the future, one line of code at a time!_
