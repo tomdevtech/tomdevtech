@@ -1,5 +1,7 @@
 # Tom.DevTech
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tomdevtech.tomdevtech&style=flat-square&color=blue)
+
 ## 👋 Hello World!
 
 Hi, I'm **Tom** – passionate developer 💻, tech enthusiast 🚀 and always curious about new digital horizons 🌍  
@@ -24,42 +26,15 @@ My goal: create innovative solutions that make a difference – simple, fast and
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" />
-      <br>React ⚛️
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
-      <br>Python 🐍
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-      <br>Node.js 🌿
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript 🔷
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-      <br>CSS 🎨
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-      <br>HTML 📄
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-      <br>Java ☕
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" height="45" alt="Markdown" style="background-color: white;" />
-      <br>Markdown 📝
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="45" height="45" alt="Ruby" />
-      <br>Ruby 💎
-    </td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" /><br>React</td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" /><br>Python</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br>Java</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" height="45" alt="Markdown" /><br>Markdown</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="45" height="45" alt="Ruby" /><br>Ruby</td>
   </tr>
 </table>
 
@@ -69,26 +44,11 @@ My goal: create innovative solutions that make a difference – simple, fast and
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
-      <br>Docker 🐳
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
-      <br>GitHub 🐙
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="45" height="45" alt="Android" />
-      <br>Android 📱
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-      <br>Git 🔧
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-      <br>VS Code 🖊️
-    </td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="45" height="45" alt="Android" /><br>Android</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>Git</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br>VS Code</td>
   </tr>
 </table>
 
@@ -121,8 +81,9 @@ My goal: create innovative solutions that make a difference – simple, fast and
 - [TechStack Generator](https://techstack-generator.vercel.app/)  
 - [Devicon](https://devicon.dev/)  
 - [Skillicons](https://skillicons.dev/)  
+- [Visitor Badge](https://visitor-badge.laobi.icu)  
 - [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github)
 
 ---
 
-✨ _Thanks for stopping by – let's build the future, one line of code at a time!_ 🚀
+_Thanks for visiting – and happy coding! 🚀_
