@@ -1,7 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 # Tom.DevTech
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tomdevtech.tomdevtech&style=flat-square&color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/tomdevtech/tomdevtech?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/tomdevtech/tomdevtech?style=flat-square)
+
 
 ---
 
