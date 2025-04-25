@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 # Tom.DevTech
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tomdevtech.tomdevtech&style=flat-square&color=blue)
