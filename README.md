@@ -69,8 +69,6 @@ My goal: create innovative solutions that make a difference – simple, fast and
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomdevtech&hide_border=true&card_width=338&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdevtech&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
-    <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=tomdevtech&theme=onestar&no-frame=true&row=1" />
   </p>
 </details>
 
