@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Tom!&fontSize=42&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%26+Software+Engineer;LLM+Architecture+%C2%B7+Deployment+%C2%B7+Agentic+AI+Systems+%C2%B7+Technical+Advisory+%26+Implementation;Always+exploring+the+ways+of+tech+and+science" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+%26+Software+Engineer;AI+Engineering+%26+Architecture;Ideas+%E2%86%92+Architecture+%E2%86%92+Design+%E2%86%92+Implementation" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-h-45a760232/)
