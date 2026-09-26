@@ -22,7 +22,7 @@
 
 💻 Programming has been part of my life for 9 years now, the last 5 of them professionally.
 
-AI Engineer & Software Engineer based in Leipzig, Sachsen (Germany), native German speaker with professional working proficiency in English. I bring 4+ years of hands-on experience as a software developer on Microsoft Dynamics 365 Business Central. In the last year  I've increasingly specialized in bringing AI into that world, connecting OpenAI & Azure AI Services to Business Central, and building a productive AI pipeline for automated product description generation.
+AI Engineer & Software Engineer based in Leipzig, Sachsen (Germany), native German speaker with professional working proficiency in English. I bring 5 years of hands-on experience as a software developer on Microsoft Dynamics 365 Business Central. In the past 2 years  I've increasingly specialized in bringing AI into that world, connecting OpenAI & Azure AI Services to Business Central, and building a productive AI pipeline for automated product description generation.
 
 Outside of work I build my own AI projects to keep pushing further, RAG pipelines, LLM-powered advisors, agentic chatbots, and multi-agent experiments. I recently wrapped up my Master's Thesis on AI-powered quality assurance for multimodal product descriptions, comparing Zero-Shot, Few-Shot and Chain-of-Thought prompting with GPT-4.1 (mini) on Azure OpenAI to detect hallucinations, structural errors and image contamination in generated content.
 
