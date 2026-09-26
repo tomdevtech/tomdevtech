@@ -1,87 +1,88 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-# Tom.DevTech
+<div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/tomdevtech/tomdevtech?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/tomdevtech/tomdevtech?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Tom!&fontSize=42&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%26+Software+Engineer;LLM+Architecture+%C2%B7+Deployment+%C2%B7+Agentic+AI+Systems+%C2%B7+Technical+Advisory+%26+Implementation;Always+exploring+the+ways+of+tech+and+science" alt="Typing SVG" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-h-45a760232/)
+[![Website](https://img.shields.io/badge/tom--devtech.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tom-devtech.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tom.devtech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tom_devtech)
 
-Hi, I'm **Tom** – passionate developer 💻, tech enthusiast 🚀 and always curious about new digital horizons 🌍  
-Since I was 16, I've been diving into the world of code, building, experimenting and constantly learning 🧠✨
+![GitHub followers](https://img.shields.io/github/followers/tomdevtech?style=flat-square&color=6C63FF&label=Follow%20me)
+![GitHub Repo stars](https://img.shields.io/github/stars/tomdevtech/tomdevtech?style=flat-square&color=6C63FF)
+![Profile views](https://komarev.com/ghpvc/?username=tomdevtech&style=flat-square&color=6C63FF&label=Profile+views)
 
-💡 I specialize in **Python**, **React** and **TypeScript**, but I’m always exploring new tools and frameworks 🛠️  
-My goal: create innovative solutions that make a difference – simple, fast and effective ⚡
-
-📬 Let’s connect and build something awesome together! 😄
-
----
-
-## 🌐 Social Media
-
-<a href="https://instagram.com/tom.devtech">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
-</a>
+</div>
 
 ---
 
-## 🔤 Languages & Extensions
+### 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" /><br>React</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" /><br>Python</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br>Java</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" height="45" alt="Markdown" /><br>Markdown</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="45" height="45" alt="Ruby" /><br>Ruby</td>
-  </tr>
-</table>
+💻 Programming has been part of my life for 9 years now, the last 5 of them professionally.
+
+AI Engineer & Software Engineer based in Leipzig, Sachsen (Germany), native German speaker with professional working proficiency in English. I bring 4+ years of hands-on experience as a software developer on Microsoft Dynamics 365 Business Central. In the last year  I've increasingly specialized in bringing AI into that world, connecting OpenAI & Azure AI Services to Business Central, and building a productive AI pipeline for automated product description generation.
+
+Outside of work I build my own AI projects to keep pushing further, RAG pipelines, LLM-powered advisors, agentic chatbots, and multi-agent experiments. I recently wrapped up my Master's Thesis on AI-powered quality assurance for multimodal product descriptions, comparing Zero-Shot, Few-Shot and Chain-of-Thought prompting with GPT-4.1 (mini) on Azure OpenAI to detect hallucinations, structural errors and image contamination in generated content.
+
+🚀 My passion: building new software, exploring what's possible with it, and turning that into measurable business impact.
+
+📬 Always happy to connect and build something new together!
 
 ---
 
-## 🛠 Tools I Use
+### 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="45" height="45" alt="Android" /><br>Android</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br>Git</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" /><br>VS Code</td>
-  </tr>
-</table>
+**Languages & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,java,html,css,md&theme=dark" /></p>
 
----
+**AI / LLM Tooling**
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-8A63D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge"/>
+</p>
 
-## 📈 GitHub Stats & Achievements
-
-<details>
-  <summary>📊 Show Stats & Trophies</summary>
-  <br/>
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomdevtech&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomdevtech&theme=transparent" />
-  </p>
-</details>
+**Platforms & Tools**
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,azure,androidstudio&theme=dark" /></p>
+<p><img src="https://img.shields.io/badge/Microsoft_Dynamics_365_BC-002050?style=for-the-badge&logo=microsoft&logoColor=white"/></p>
 
 ---
 
-## 📚 Resources & Credits
+### 📈 GitHub Stats
 
-- [Typing SVG](https://readme-typing-svg.demolab.com/)  
-- [Devicon](https://devicon.dev/)  
-- [TechStack Generator](https://techstack-generator.vercel.app/)  
-- [Skillicons.dev](https://skillicons.dev/)  
-- [Visitor Badge](https://visitor-badge.laobi.icu)  
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)  
-- [Trophy](https://github.com/ryo-ma/github-profile-trophy) 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=tomdevtech&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
-_Thanks for visiting – let’s connect & create! 🚀_
+<div align="center">
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-h-45a760232/)
+[![Website](https://img.shields.io/badge/Website-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://tom-devtech.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/tom.devtech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tom_devtech)
+
+_Thanks for stopping by! let's build something intelligent together! 🚀_
+
+</div>
+
+<!--
+Resources & Credits used for this README:
+- Typing SVG: https://readme-typing-svg.demolab.com/
+- Capsule Render: https://github.com/kyechan99/capsule-render
+- Skillicons: https://skillicons.dev/
+- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+- Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+- Trophy: https://github.com/ryo-ma/github-profile-trophy
+- Visitor Counter: https://github.com/antonkomarev/github-readme-stats-profile-views-counter (komarev)
+-->
