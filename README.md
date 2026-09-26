@@ -72,7 +72,7 @@ Outside of work I build my own AI projects to keep pushing further, RAG pipeline
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/tom.devtech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tom_devtech)
 
-_Thanks for stopping by! let's build something intelligent together! 🚀_
+_Thanks for stopping by! Let's build something intelligent together! 🚀_
 
 </div>
 
