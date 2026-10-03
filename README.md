@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tom_devtech)
 
 ![GitHub followers](https://img.shields.io/github/followers/tomdevtech?style=flat-square&color=6C63FF&label=Follow%20me)
-![GitHub Repo stars](https://img.shields.io/github/stars/tomdevtech/tomdevtech?style=flat-square&color=6C63FF)
+![User Repo stars](https://img.shields.io/github/stars/tomdevtech?style=flat-square&color=6C63FF)
 ![Profile views](https://komarev.com/ghpvc/?username=tomdevtech&style=flat-square&color=6C63FF&label=Profile+views)
 
 </div>
